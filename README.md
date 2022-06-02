@@ -19,3 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauroue&show_icons=true&locale=en&layout=compact" alt="mauroue" /></p>
 
+![Mauro's github stats](https://github-readme-stats.vercel.app/apiusername=mauroue&show_icons=true&theme=dracula) 
