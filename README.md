@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauroue&label=Profile%20views&color=0e75b6&style=flat" alt="mauroue" /> </p>
 
-- 🌱 I’m currently learning **React, Typescript, Advanced Algorithms and Rust**
+- 🌱 I’m currently learning **React, Angular, Typescript, Advanced Algorithms and Go(lang)**
 
 - 📫 How to reach me **mauroue@gmail.com**
 
